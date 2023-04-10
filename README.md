@@ -1,4 +1,4 @@
-# On-key
+# On-hotkey
 
 on-key is a small, tree-shakecable library, which simplifies the work with hotkeys on your website. 
 
