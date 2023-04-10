@@ -46,6 +46,13 @@ onCodeDown({
 
 ```
 
+Install:
+```
+yarn add on-hotkey
+# or
+npm i on-hotkey --save
+```
+
 Complex example: https://codesandbox.io/s/on-key-example-gmumel 
 
 ### on-key provides 4 methods:
