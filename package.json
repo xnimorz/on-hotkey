@@ -1,6 +1,6 @@
 {
   "name": "on-hotkey",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Native JavaScript library to subscribe on keyboard shortcuts, small and without any dependencies",
   "source": "src/index.ts",
   "main": "dist/index.js",

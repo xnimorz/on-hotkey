@@ -4,8 +4,7 @@ on-key is a small, tree-shakecable library, which simplifies the work with hotke
 
 Simple example:
 ```js
-import { onCodeDown, cmd, ctrl } from 'on-key';
-import { code_KeyA } from 'on-hotkey/codes';
+import { onCodeDown, cmd, ctrl, code_KeyA } from 'on-key';
 
 // ...
 

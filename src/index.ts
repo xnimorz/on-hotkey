@@ -1,8 +1,12 @@
+export * from "./codes";
+export * from "./keys";
+
 export const alt = 'altKey';
 export const ctrl = 'ctrlKey';
 export const meta = 'metaKey';
 export const cmd = 'metaKey';
 export const shift = 'shiftKey';
+
 
 export type Mod = typeof alt | typeof ctrl | typeof meta | typeof shift
 
