@@ -1,5 +1,5 @@
 {
-  "name": "on-key",
+  "name": "on-hotkey",
   "version": "0.0.1",
   "description": "Native JavaScript library to subscribe on keyboard shortcuts, small and without any dependencies",
   "source": "src/index.ts",
