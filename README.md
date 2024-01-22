@@ -1,6 +1,6 @@
 # On-hotkey
 
-on-key is a small, tree-shakecable library, which simplifies the work with hotkeys on your website. 
+on-key is a small, tree-shakable library, which simplifies the work with hotkeys on your website. 
 
 Simple example:
 ```js
